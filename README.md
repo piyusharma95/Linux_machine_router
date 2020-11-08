@@ -15,11 +15,6 @@ http://www.microhowto.info/howto/enable_forwarding_of_ipv4_packets.html
 - Script should read the above test case file and execute the test cases and print the number of test cases passed and failed at the end.
 
 - Script should log the results in a log file. 
-
- 
-
-You may upload the script to github.
-
  
 
 2. Write a script in python to create exactly 1000 TCP sessions. Feel free to use any opensource tools to generate the traffic (iperf, ab etc).
